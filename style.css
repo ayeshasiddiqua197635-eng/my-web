@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GlobalEarn – Work & Earn Worldwide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>GlobalEarn</h1>
+  <p>Connect Skills with Global Opportunities</p>
+  <a href="#services" class="btn">Start Earning</a>
+</header>
+
+<section class="about">
+  <h2>How It Works</h2>
+  <div class="steps">
+    <div>1. Create Account</div>
+    <div>2. Offer Your Service</div>
+    <div>3. Get Paid Globally</div>
+  </div>
+</section>
+
+<section id="services">
+  <h2>Popular Services</h2>
+
+  <div class="service-card">
+    <h3>Web Design</h3>
+    <p>Create websites for global clients</p>
+    <span>$50+</span>
+  </div>
+
+  <div class="service-card">
+    <h3>Graphic Design</h3>
+    <p>Logos, posters, social media</p>
+    <span>$20+</span>
+  </div>
+
+  <div class="service-card">
+    <h3>Content Writing</h3>
+    <p>Blogs, articles, SEO content</p>
+    <span>$15+</span>
+  </div>
+</section>
+
+<section class="cta">
+  <h2>Available for Pakistan & Worldwide 🌍</h2>
+  <p>Earn from international clients with your skills</p>
+  <a class="btn">Join Now</a>
+</section>
+
+<footer>
+  <p>© 2025 GlobalEarn. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
