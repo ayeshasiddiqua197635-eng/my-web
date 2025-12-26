@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SimpleSell</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f6f8;
+      color: #333;
+    }
+
+    header {
+      background: #4f46e5;
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+
+    header p {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    .box {
+      background: white;
+      padding: 30px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    }
+
+    .box h2 {
+      margin-top: 0;
+    }
+
+    .price {
+      font-size: 28px;
+      color: #4f46e5;
+      font-weight: bold;
+    }
+
+    .button {
+      display: inline-block;
+      background: #4f46e5;
+      color: white;
+      padding: 14px 28px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 15px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>SimpleSell</h1>
+  <p>Clean & Professional Digital Services</p>
+</header>
+
+<section>
+  <div class="box">
+    <h2>What We Offer</h2>
+    <p>
+      We provide clean, professional, and ready-to-use digital services
+      that help small businesses grow online.
+    </p>
+  </div>
+
+  <div class="box">
+    <h2>Our Service</h2>
+    <p>
+      Instagram post designs, social media visuals, and simple online branding.
+    </p>
+    <p class="price">$20 Package</p>
+    <a class="button" href="mailto:your@email.com">Order Now</a>
+  </div>
+
+  <div class="box">
+    <h2>Why Choose Us?</h2>
+    <p>
+      ✔ Simple & clean designs<br>
+      ✔ Fast delivery<br>
+      ✔ Easy communication<br>
+      ✔ Affordable pricing
+    </p>
+  </div>
+</section>
+
+<footer>
+  © 2025 SimpleSell. All rights reserved.
+</footer>
+
+</body>
+</html>
